@@ -4,7 +4,8 @@
 
 ## Arquitetura, Instalação e Aplicações na Computação Moderna
 
-![Logo](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-ae94-61f7-8c15-dfe876926cc3/raw?se=2025-05-21T02%3A22%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=ae1f8bf5-bafc-55fe-898d-f3765a2f1dad&skoid=5cab1ff4-c20d-41dc-babb-df0c2cc21dd4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-20T22%3A54%3A15Z&ske=2025-05-21T22%3A54%3A15Z&sks=b&skv=2024-08-04&sig=JNIFuc2h42V53HPHfLTkW2hgluSA7QO/Oq%2BFmQ0JhJ8%3D)
+![Logo]([https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-ae94-61f7-8c15-dfe876926cc3/raw?se=2025-05-21T02%3A22%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=ae1f8bf5-bafc-55fe-898d-f3765a2f1dad&skoid=5cab1ff4-c20d-41dc-babb-df0c2cc21dd4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-20T22%3A54%3A15Z&ske=2025-05-21T22%3A54%3A15Z&sks=b&skv=2024-08-04&sig=JNIFuc2h42V53HPHfLTkW2hgluSA7QO/Oq%2BFmQ0JhJ8%3D](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-ae94-61f7-8c15-dfe876926cc3/raw?se=2025-05-21T19%3A40%3A07Z&sp=r&sv=2024-08-04&sr=b&scid=32508217-b157-5acc-a4b8-ab7edae896c3&skoid=732f244e-db13-47c3-bcc7-7ee02a9397bc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-21T13%3A52%3A40Z&ske=2025-05-22T13%3A52%3A40Z&sks=b&skv=2024-08-04&sig=L0IK1isYubhXPl9u/4GI96CC%2B2CC9p96t0dPn/chkuM%3D))
+https://www.youtube.com/watch?v=SoR8OCQj-zg&t=344s
 
 ---
 
